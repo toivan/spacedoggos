@@ -17,9 +17,7 @@ contract SpaceDoggos {
       uint8 breed;
       uint8 color;
       uint8 face;
-uint8 with name costume
-uint with name coordX
-uint with name coordY
+
     }
 
 
